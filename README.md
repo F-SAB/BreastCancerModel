@@ -15,7 +15,7 @@ The Logistic Regression model is a linear model used for binary classification. 
 - `wdbc.data`: The dataset file.
 - `F-SAB_model_v1.pkl`: The trained SVM model.
 - `F-SAB_model_v2.pkl`: The trained Logistic Regression model.
-- `100906105_v1.ipynb`: Script to train the SVM model.
+- `100906105_model_v1.ipynb`: Script to train the SVM model.
 - `100906105_model_v2.ipynb`: Script to train the Logistic Regression model.
 
 ## Instructions
